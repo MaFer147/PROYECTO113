@@ -1,0 +1,9 @@
+table = tabla
+colspan = ocupar mas espacios
+font = color 
+width = tamaño de la imagen 
+ul = listas 
+size = tamaño 6
+background = fondo 
+a href = para hacer un enlace 
+bgcolor = color de fondo 
